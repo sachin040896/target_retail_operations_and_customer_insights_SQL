@@ -69,19 +69,19 @@ The dataset is relational and consists of 8 core tables that capture the end-to-
 
 1. Seasonal Demand & Sales Strategy <br>
 i. Capitalize on Q2–Q3 Demand Peaks (March–August): <br>
-Increase marketing campaigns, discounts, and inventory levels during these months to maximize revenue when customer demand is at its highest. <br>
+  - Increase marketing campaigns, discounts, and inventory levels during these months to maximize revenue when customer demand is at its highest. <br>
 ii. Address the September Slump: <br>
-Introduce targeted loyalty campaigns, back-to-school promotions, or limited-time discounts to counter the significant drop in September orders. <br>
+  - Introduce targeted loyalty campaigns, back-to-school promotions, or limited-time discounts to counter the significant drop in September orders. <br>
 iii. Holiday Season Readiness: <br>
-Strengthen operations in November (festive season), ensuring optimized logistics and promotional offers to fully leverage shopping spikes. <br>
+  - Strengthen operations in November (festive season), ensuring optimized logistics and promotional offers to fully leverage shopping spikes. <br>
 
 2. Regional Growth & Market Expansion <br>
 i. Focus on Strong Markets (SP, RJ, MG): <br>
-These states generate the highest customer volume and revenue. Target should invest in faster delivery guarantees, premium product offerings, and exclusive membership benefits here. <br>
+  - These states generate the highest customer volume and revenue. Target should invest in faster delivery guarantees, premium product offerings, and exclusive membership benefits here. <br>
 ii. Develop Weaker Markets (North & Northeast states): <br>
-Enhance brand visibility through localized advertising, influencer marketing, and partnerships with regional delivery providers to reduce freight costs and improve accessibility. <br>
+  - Enhance brand visibility through localized advertising, influencer marketing, and partnerships with regional delivery providers to reduce freight costs and improve accessibility. <br>
 iii. Balanced Resource Allocation: <br>
-Use state-level demand data to guide inventory placement, warehouse expansion, and regional staffing decisions. <br>
+  - Use state-level demand data to guide inventory placement, warehouse expansion, and regional staffing decisions. <br>
 
 3. Delivery & Logistics Optimization <br>
 i. Improve Slow-Delivery States (SC, MG, DF, PR, SP): <br>
